@@ -11,17 +11,19 @@ creator:
     - Urabi Pasha
     - Ahmad Urabi
     - Arabi, Ahmad
-    birthdate: &id001 1840
+    birthdate: 1840
     deathdate: 1911
     gutenberg_agent_id: '45859'
     url: http://www.gutenberg.org/2009/agents/45859
   - agent_name: Blunt, Wilfrid Scawen
-    birthdate: *id001
+    birthdate: 1840
     deathdate: 1922
     gutenberg_agent_id: '7229'
     url: http://www.gutenberg.org/2009/agents/7229
     wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Scawen_Blunt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41373#Secret-History-of-the-English-Occupation-of-EgyptBeing-a-Personal-Narrative-of-Events
 gutenberg_issued: '2012-11-16'
 gutenberg_type: Text
 identifiers:
